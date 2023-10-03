@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working in NodeJS & Ruby On Rails<br>🌱 I’m currently learning & developing my skills ReactJS<br>⚡ Fun fact - I make memes and video edits in my spare time
+🔭 I’m currently working in NodeJS & Ruby On Rails<br>🌱 I’m currently learning & developing my skills in ReactJS<br>⚡ Fun fact - I make memes and video edits in my spare time
 
 
 ## 🌐 Socials:
